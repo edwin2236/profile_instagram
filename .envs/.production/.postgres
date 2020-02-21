@@ -1,0 +1,9 @@
+# PostgreSQL
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=profile_instagram_db
+POSTGRES_USER=profile_instagram_user
+POSTGRES_PASSWORD=ZAvrFHvY9kDo7ZFrhvj5Z391Ifin6Wcp
+POSTGRES_ROOT=postgres
+POSTGRES_ROOT_PASSWORD=postgres
+POSTGRES_SERVER_HOST=postgres-dev

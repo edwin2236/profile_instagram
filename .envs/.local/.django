@@ -1,0 +1,6 @@
+# General
+DJANGO_SETTINGS_MODULE=profile_instagram.settings.local
+DJANGO_SECRET_KEY=m)ik-z&q4e3jwoh)1pvbxl80c@o)d^2mue#$tqtop75oaxwozr
+DJANGO_ADMIN_URL=admin/
+DJANGO_ALLOWED_HOSTS=localhost:9003
+DJANGO_CORS_ORIGIN_WHITELIST=http://localhost:9003,http://localhost:3000

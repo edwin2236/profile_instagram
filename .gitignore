@@ -1,0 +1,11 @@
+# virtual enviroment
+/.env
+
+# Cache
+__pycache__/
+
+#VS Code
+.vscode/
+
+# Static files
+/farsys_backend/static/
